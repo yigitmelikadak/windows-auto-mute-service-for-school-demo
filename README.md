@@ -15,14 +15,16 @@ A C# Windows Service that automatically mutes system audio based on a daily sche
 
 1. Clone the repository:
    ```bash
-   git clone ? // yet, not
+   git clone https://github.com/yigitmelikadak/windows-auto-mute-service-for-school-demo.git
 
 1)Open balance.sln in Visual Studio and build the solution (Ctrl + Shift + B).
 2)Open Command Prompt / PowerShell as Administrator.
 3)Navigate to the .NET Framework installation folder and run InstallUtil.exe:
 4)Open terminal and type,
+```bash
 cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
 InstallUtil.exe "C:\Path\To\Your\Project\bin\Debug\balance.exe"
+```
 5. Open services.msc on Windows and start "Kabuk Optimizasyon Servisi" (or mctrg).
 (Note: Named stealthily as a system service to prevent classmates from stopping it during school hours.)
 

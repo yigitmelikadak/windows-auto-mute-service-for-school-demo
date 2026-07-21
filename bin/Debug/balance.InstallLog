@@ -1,0 +1,13 @@
+﻿'C:\addo\balance\bin\Debug\balance.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\addo\balance\bin\Debug\balance.InstallLog
+   assemblypath = C:\addo\balance\bin\Debug\balance.exe
+mctrg hizmeti yükleniyor...
+Application günlüğünde mctrg EventLog kaynağı oluşturuluyor...
+'C:\addo\balance\bin\Debug\balance.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\addo\balance\bin\Debug\balance.InstallLog
+   assemblypath = C:\addo\balance\bin\Debug\balance.exe
+mctrg kaynağı için olay günlüğü önceki duruma döndürülüyor.
